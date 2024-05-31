@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14636" started-at="2024-05-29T01:28:53Z" finished-at="2024-05-29T01:29:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14636" started-at="2024-05-29T01:28:53Z" finished-at="2024-05-29T01:29:07Z">
+      <class name="com.ng.HRMTest">
+        <test-method status="PASS" signature="hrm()[pri:0, instance:com.ng.HRMTest@6bf256fa]" name="hrm" duration-ms="14593" started-at="2024-05-29T01:28:53Z" finished-at="2024-05-29T01:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrm -->
+      </class> <!-- com.ng.HRMTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="29014" started-at="2024-05-29T01:29:07Z" finished-at="2024-05-29T01:29:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29014" started-at="2024-05-29T01:29:07Z" finished-at="2024-05-29T01:29:36Z">
+      <class name="com.ng.IHGTest">
+        <test-method status="PASS" signature="ihg()[pri:0, instance:com.ng.IHGTest@4cb2c100]" name="ihg" duration-ms="15476" started-at="2024-05-29T01:29:21Z" finished-at="2024-05-29T01:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ihg -->
+      </class> <!-- com.ng.IHGTest -->
+      <class name="com.ng.OrangeHRMTest">
+        <test-method status="PASS" signature="hrm()[pri:0, instance:com.ng.OrangeHRMTest@3f2a3a5]" name="hrm" duration-ms="13535" started-at="2024-05-29T01:29:07Z" finished-at="2024-05-29T01:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrm -->
+      </class> <!-- com.ng.OrangeHRMTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
